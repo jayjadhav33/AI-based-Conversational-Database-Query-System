@@ -1,0 +1,32 @@
+HOSPITAL MANAGEMENT :
+list all doctors in database
+how many doctors have department Neurology
+is there Dr. Amit Joshi in database ?
+how many patients are from Pune ?
+how many doctors are Cardiologist
+show patients from Pune
+how many patients are Female
+show patients with age > 30
+what is the average age of patients
+how many appointments are Scheduled
+how many appointments are Completed
+show appointments with status Scheduled
+show medical records with diagnosis Fever
+how many medical records have diagnosis Common Cold
+
+
+
+INVENTORY MANAGEMENT :
+how many suppliers are there
+show suppliers from Pune
+how many suppliers in Pune
+Show all products with their category names
+how many products are white
+how many products are size M
+show products with size L
+how many products have quantity > 5
+how many categories / total categories
+What is the total number of items sold?	
+show all sales
+total stock quantity	
+total items sold / total quantity sold	
